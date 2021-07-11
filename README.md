@@ -1,6 +1,7 @@
 # Student_Marks_Predictor
 <h2>Predict the percentage of an student based on the no. of study hours.</h2><br>
 This is a simple linear regression task as it involves just 2 variables.<br><hr>
+<b><ul>IDE used</b> : Jupyter Notebook (As it is simple linear regression task you can use google colab or other IDE too)</ul>
 <b><ul>Dataset</b> : http://bit.ly/w-data</ul>
 <b><ul>Libraries Used:</br>
   <li>Numpy</li>
