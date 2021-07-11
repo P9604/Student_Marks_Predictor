@@ -9,3 +9,5 @@ This is a simple linear regression task as it involves just 2 variables.<br><hr>
   <li>Pandas</li>
   </ul>
   
+<b><ul> Medium Link<b>: https://k-priya.medium.com/prediction-using-supervised-ml-b7a79f1c712</ul>
+  
